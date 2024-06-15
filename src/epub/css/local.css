@@ -223,6 +223,6 @@ footer{
 /* End letters */
 
 table td:last-child{
-	text-align: right;
 	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
