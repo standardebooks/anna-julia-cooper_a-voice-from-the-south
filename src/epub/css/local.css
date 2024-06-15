@@ -221,3 +221,8 @@ footer{
 	text-indent: 0;
 }
 /* End letters */
+
+table td:last-child{
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
