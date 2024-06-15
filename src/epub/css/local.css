@@ -173,6 +173,16 @@ p span.i4{
 	text-indent: -1em;
 }
 
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i8{
+	padding-left: 9em;
+	text-indent: -1em;
+}
+
 span.elision{
 	margin: .5em;
 	margin-left: 3em;
