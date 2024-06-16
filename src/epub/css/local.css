@@ -191,13 +191,15 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-
-[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
-	text-align: initial;
-	text-indent: 0;
-}
 /* End letters */
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
+table{
+	margin: 1em auto 1em auto;
+}
 
 table td:last-child{
 	font-variant-numeric: tabular-nums;
