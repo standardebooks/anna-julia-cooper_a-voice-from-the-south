@@ -6,12 +6,6 @@
 			<reason>“Yet” is part of a title, so it is capitalized without punctuation before it.</reason>
 		</ignore>
 	</file>
-	<file path="dedication.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>The original dedication style is complex and requires some extra block-level elements to recreate.</reason>
-		</ignore>
-	</file>
 	<file path="part-2.xhtml">
 		<ignore>
 			<code>s-023</code>

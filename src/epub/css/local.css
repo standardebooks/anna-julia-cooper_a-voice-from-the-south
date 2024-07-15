@@ -82,19 +82,19 @@ section[epub|type~="dedication"] b{
 	font-size: larger;
 }
 
-section[epub|type~="dedication"] p:nth-of-type(1),
-section[epub|type~="dedication"] p:nth-of-type(3){
+section[epub|type~="dedication"] span{
+	font-size: 1em;
+}
+
+section[epub|type~="dedication"] p{
 	font-variant: small-caps;
-	line-height: 2;
+	line-height: 1.5;
 }
 
-section[epub|type~="dedication"] p:nth-of-type(2){
+section[epub|type~="dedication"] span:nth-of-type(2){
+	display: block;
+	font-variant: normal;
 	text-align: justify;
-	text-indent: 0;
-}
-
-section[epub|type~="dedication"] p:nth-of-type(3){
-	text-indent: 0;
 }
 
 section[epub|type~="dedication"] > *{
