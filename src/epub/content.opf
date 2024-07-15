@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-07-15T16:50:49Z</dc:date>
+		<meta property="dcterms:modified">2024-07-15T16:50:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,16 @@
 		<meta property="term" refines="#subject-5">sh2008111476</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">A Black woman from the South philosophizes on various subjects.</dc:description>
+		<dc:description id="description">A Black woman from the American South philosophizes on various subjects.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Subsequently recognized as one of the first works of Black feminist theory, &lt;i&gt;A Voice from the South&lt;/i&gt; was published in 1892 by &lt;a href="https://standardebooks.org/ebooks/anna-julia-cooper"&gt;Anna Julia Cooper&lt;/a&gt;, an educator who was one of the first two African-American women to be awarded a master’s degree. Setting forth a perspective that would be described as “intersectional” in contemporary terms, Cooper explored her own lived experience as an educated African-American woman and advocated for the education of African-American women as a necessary means of achieving racial equality. However, her marked emphasis on women’s roles in the household has been critiqued by later theorists as a concession to the 19th century “cult of domesticity”—or, alternatively, a strategic engagement with the dominant cultural view towards women in her time. &lt;i&gt;A Voice from the South&lt;/i&gt; continues to be read and analyzed today for its pioneering role in African-American female scholarship.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Voice from the South&lt;/i&gt; was published in 1892 by &lt;a href="https://standardebooks.org/ebooks/anna-julia-cooper"&gt;Anna Julia Cooper&lt;/a&gt;, an educator who was one of the first two African-American women to be awarded a master’s degree. Since then it has been recognized as one of the first works of Black feminist theory.&lt;/p&gt;
+			&lt;p&gt;Setting forth a perspective that would be described as “intersectional” in contemporary terms, Cooper explores her own lived experience as an educated African-American woman, and advocates for the education of African-American women as a necessary means of achieving racial equality. However, her marked emphasis on women’s roles in the household has been critiqued by later theorists as a concession to the 19th century “cult of domesticity”—or, alternatively, a strategic engagement with the dominant cultural view towards women in her time. &lt;i&gt;A Voice from the South&lt;/i&gt; continues to be read and analyzed today for its pioneering role in African-American female scholarship.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61741</dc:source>
 		<dc:source>https://archive.org/details/voicefromsouth00coop</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">60708</meta>
+		<meta property="se:reading-ease.flesch">52.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Voice_from_the_South</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-julia-cooper_a-voice-from-the-south</meta>
 		<dc:creator id="author">Anna Julia Cooper</dc:creator>
@@ -90,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
