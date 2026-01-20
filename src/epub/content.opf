@@ -54,7 +54,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61741</dc:source>
 		<dc:source>https://archive.org/details/voicefromsouth00coop</dc:source>
-		<meta property="se:word-count">60708</meta>
+		<meta property="se:word-count">60360</meta>
 		<meta property="se:reading-ease.flesch">52.73</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Voice_from_the_South</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-julia-cooper_a-voice-from-the-south</meta>
