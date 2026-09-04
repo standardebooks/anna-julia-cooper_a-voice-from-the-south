@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Voice from the South</dc:title>
 		<meta property="file-as" refines="#title">Voice from the South, A</meta>
-		<dc:subject id="subject-1">African Americans -- Southern States -- Social conditions -- 19th century</dc:subject>
-		<dc:subject id="subject-2">African American women -- Southern States -- Social conditions -- 19th century</dc:subject>
-		<dc:subject id="subject-3">African American women -- Southern States -- History -- 19th century</dc:subject>
-		<dc:subject id="subject-4">African Americans -- Southern States -- History -- 19th century</dc:subject>
-		<dc:subject id="subject-5">Southern States -- Race relations</dc:subject>
+		<dc:subject id="subject-1">African Americans--Southern States--Social conditions--19th century</dc:subject>
+		<dc:subject id="subject-2">African American women--Southern States--Social conditions--19th century</dc:subject>
+		<dc:subject id="subject-3">African American women--Southern States--History--19th century</dc:subject>
+		<dc:subject id="subject-4">African Americans--Southern States--History--19th century</dc:subject>
+		<dc:subject id="subject-5">Southern States--Race relations</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
