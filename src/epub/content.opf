@@ -63,7 +63,7 @@
 		<link href="https://github.com/standardebooks/anna-julia-cooper_a-voice-from-the-south" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Anna Julia Cooper</dc:creator>
 		<meta property="file-as" refines="#author">Cooper, Anna Julia</meta>
-		<link href="https://en.wikipedia.org/wiki/Anna_Julia_Cooper" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Anna_J._Cooper" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81024710.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
